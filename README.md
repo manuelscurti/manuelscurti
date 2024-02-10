@@ -11,7 +11,9 @@ metadata:
   namespace: default
   name: Manuel Scurti
   description: >
-    Everyone loves sleeping, but I take it very seriously, which is why I am always striving to write software that is clean, testable, documented, and observable. 😇
+    Everyone loves sleeping, but I take it very seriously, 
+    which is why I am always striving to write software that is 
+    clean, testable, documented, and observable. 😇
   location:
     country: Italy
     homeTown: Pescara
