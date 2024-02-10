@@ -1,16 +1,42 @@
-### Hi there 👋
+## Ciao 🤙🏻
 
-<!--
-**manuelscurti/manuelscurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer based in *Italy*. 
 
-Here are some ideas to get you started:
+Here is my `descriptor.yaml`:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+apiVersion: backstage.io/v1
+kind: Human
+metadata:
+  namespace: default
+  name: Manuel Scurti
+  description: >
+    Everyone loves sleeping, but I take it very seriously, which is why I am always striving to write software that is clean, testable, documented, and observable. 😇
+  location:
+    country: Italy
+    homeTown: Pescara
+    currentTown: Turin
+relations:
+  - type: isLoving
+    targetRef: sport:beach-volley 🏐
+  - type: isLearning
+    targetRef: sport:surf 🏄🏻‍♂️
+  - type: hasHobby
+    targetRef: music:electronic-music 🎧
+  - type: hasHobby
+    targetRef: sport:surf-skate 🛹
+spec:
+  type: SoftwareEngineer
+  background: ComputerEngineering
+```
+
+Whoops, I am sorry, you ain't gonna deploy me anywhere, are you?
+
+So here is some more info about me, this time human-readable:
+
+- 🔧 Building [**witboost**](https://docs.witboost.agilelab.it/), an Internal Developer Platform (IDP) for data engineers (cool, isn't it? 😎)
+- 🌱 Reading *Learning Domain-Driven Design* by Vlad Khononov
+- 👯 Contributing to @Backstage
+- 🛠️ Tech stack: *Node.js*, *Typescript*, *Scala*
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manuelscurti/)! 
+- 🧊 Catch phrases to break ice with me: "It's not that is hot, the real issue is the humidity" or "Are arrosticini made of chicken?"
