@@ -1,4 +1,4 @@
-## Ciao mate 🤙🏻
+## Hey there 🤙🏻
 
 I am a Software Engineer based in *Italy*. 
 
